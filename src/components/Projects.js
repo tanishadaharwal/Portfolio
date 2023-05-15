@@ -3,7 +3,7 @@ import cure_cloud from "../assets/portfolio/cure_cloud.png";
 import quad_tree from "../assets/portfolio/quad_tree.png";
 import react_sm from "../assets/portfolio/react_sm.png";
 import algo_v from "../assets/portfolio/algo_v.png";
-import {FaGithub, FaLinkedin} from "react-icons/fa";
+import {FaGithub} from "react-icons/fa";
 const Projects = () => {
     return (
         <div name="projects" className="text-white md:h-full w-full bg-gradient-to-b from-black to-gray-800 py-20">
@@ -49,7 +49,7 @@ const Projects = () => {
 
                 <div>
                     
-                    <img src={cure_cloud} alt="q" className="h-48 w-96 hover:opacity-80 hover:scale-110 duration-300 shadow-md shadow-gray-500 rounded-lg"/>
+                    <img src={algo_v} alt="q" className="h-48 w-96 hover:opacity-80 hover:scale-110 duration-300 shadow-md shadow-gray-500 rounded-lg"/>
                     <p className="mx-auto py-4 text-center text-2xl">Algorithm Visualiser in Python</p>
                     <a href="https://github.com/tanishadaharwal/Algorithm-Visualiser" className="flex justify-around items-center w-full text-white">
                     <>

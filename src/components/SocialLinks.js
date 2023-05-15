@@ -22,9 +22,9 @@ const SocialLinks = () => {
                     </a>
                 </li>
                 <li className="flex justify-between items-center w-40 h-14 px-4 bg-gradient-to-r from-violet-600 to-pink-500 ml-[-100px]  hover:ml-[-10px] hover:rounded-md duration-300">
-                <a href="https://github.com/tanishadaharwal" className="flex justify-between items-center w-full text-white">
+                <a href="mailto:tanisha22daharwal@gmail.com" className="flex justify-between items-center w-full text-white">
                         <>
-                        Github<FaGithub size={30}/>
+                        Mail<HiOutlineMail size={30}/>
                         </>
                     </a>
                 </li>

@@ -1,4 +1,4 @@
-import {useState, useEffect} from "react";
+import {useState} from "react";
 import React from "react"; 
 import {FaBars, FaTimes} from "react-icons/fa";
 import {Link} from "react-scroll";
