@@ -2,15 +2,12 @@ import React from "react";
 import girl from "../assets/girl_image.jpg";
 import {CgArrowRight} from "react-icons/cg";
 import {Link} from "react-scroll";
-import {Typewriter} from "react-simple-typewriter";
+
 
 
 const Home = () => {
     
-    // const [text] = useTypewriter({
-    //     words: ['Hello', 'From', 'Typewriter', 'Hook!'],
-    //     loop: 0
-    //   })
+    
     return (
         <div name="home" className="text-white h-screen w-full bg-gradient-to-b from-black to-gray-800">
             
