@@ -1,5 +1,5 @@
 import React from "react";
-import cure_cloud from "../assets/portfolio/cure_cloud.png";
+import amazon from "../assets/portfolio/amazon.png";
 import quad_tree from "../assets/portfolio/quad_tree.png";
 import react_sm from "../assets/portfolio/react_sm.png";
 import algo_v from "../assets/portfolio/algo_v.png";
@@ -38,9 +38,9 @@ const Projects = () => {
 
                 <div>
                     
-                    <img src={cure_cloud} alt="q" className="h-48 w-96 hover:opacity-80 hover:scale-110 duration-300 shadow-md shadow-gray-500 rounded-lg"/>
-                    <p className="mx-auto py-4 text-center text-2xl">Hospital Management Website with Google Cloud</p>
-                    <a href="https://github.com/tanishadaharwal/GCP-Project" className="flex justify-around items-center w-full text-white">
+                    <img src={amazon} alt="q" className="h-48 w-96 hover:opacity-80 hover:scale-110 duration-300 shadow-md shadow-gray-500 rounded-lg"/>
+                    <p className="mx-auto py-4 text-center text-2xl">Full Stack Amazon Clone using Next Js, FIrebase and Tailwind CSS</p>
+                    <a href="https://github.com/tanishadaharwal/Amazone-Clone" className="flex justify-around items-center w-full text-white">
                     <>
                     <FaGithub size={30} className="hover:scale-105 duration-300 "/>
                     </>
