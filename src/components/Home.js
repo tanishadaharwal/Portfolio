@@ -9,7 +9,7 @@ import AnimatedCursor from "react-animated-cursor"
 const Home = () => {
     
     const [text] = useTypewriter({
-        words: ['Web Developer', 'Programmar', 'Tech Enthusiast', 'Serial Chiller'],
+        words: ['Web Developer', 'App Developer', 'Programmer', 'Tech Enthusiast'],
         loop: 0
       })
     
